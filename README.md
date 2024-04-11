@@ -2,7 +2,6 @@ Hi there! 👋 I'm David Arua
 Welcome to my GitHub profile! I'm a student at African Leadership University, currently diving into the world of JavaScript.
 
 🚀 About Me:
-🎓 Studying at African Leadership University.
 💻 Learning and experimenting with JavaScript.
 
 🔧 Technologies & Tools:
